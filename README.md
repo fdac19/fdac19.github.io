@@ -1,21 +1,3 @@
-
-# Class on Aug 26
-   - As of 9PM Aug 26: Practice0 is open for cloning/completion
-   - Finish the lecture on the background for the class
-   - Make sure ssh/putty setup works
-   - [Full details](https://github.com/fdac19/news/blob/master/Preliminary.md)
-
-# Class on Aug 23
-   - Make sure you accept your github invitations
-   - Follow through ssh/putty setup
-	- [Full details](https://github.com/fdac19/news/blob/master/Preliminary.md)
-
-
-# Class on Aug 21
-   - Create your github account 
-     - Go through the fork students create your utid.md file providing your name and interests: see Audris.md for inspiration, and also provide your  utid.key with your public ssh key.
-   - Make sure you do it during the class so we can start ready Aug 23
-
 # Class [video recordings](https://drive.google.com/open?id=1o-se-OxN1f1llAX35mzzR00q2261JfGp)
 
 # Information for remote participation via Zoom
