@@ -16,7 +16,7 @@
 * **Course:** [COSCS-445/COSCS-545]
 * ** MK-524   10:10-11:00 MWF**
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) office hours MK613 - on request
-* **TA:** Preston Provins [pprovins@vols.utk.edu](mailto:pprovins@vols.utk.edu) office hours TBD 
+* **TA:** Preston Provins [pprovins@vols.utk.edu](mailto:pprovins@vols.utk.edu) office hours available on request 
 * **TA:** David Kennard [dkennard@vols.utk.edu](mailto:dkennard@vols.utk.edu) office hours TBD 
 * **Need help?**
 
